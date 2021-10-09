@@ -1,5 +1,5 @@
-# IoT
-# Tugas 7
+# IoT_TID_V3920002_AghaSM
+# Tugas 7 
 Hasil kuis poin C, penjelasan dan hasil screenshoot ada di file IoT_TID_V3920002_Agha7.pdf
 # Tugas 6
 Tugas 6 pada Folder Tugas6
