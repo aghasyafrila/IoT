@@ -14,7 +14,8 @@ Sebelum mengcompile script harus ditambahkan library untuk ethernet melalui sket
   Serial.println("\n[backSoon]");. 
   
   **(bagian program yang memuat tampilan web)**
-![scr](https://user-images.githubusercontent.com/89903725/143771752-1440c044-6486-4a9a-ad8b-32d8eda5746f.png)
+  
+  ![scr](https://user-images.githubusercontent.com/89903725/143771752-1440c044-6486-4a9a-ad8b-32d8eda5746f.png)
 
 Setelah tercompile ambil link file hexnya dan ketika kembali ke proteus dan program di play  led akan menyala serta muncul Virtual terminal yang memuat IP address yang digunakan untuk memuat server online/web.
   
