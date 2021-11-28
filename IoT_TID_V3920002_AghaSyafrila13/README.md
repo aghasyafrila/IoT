@@ -13,6 +13,28 @@ Sebelum mengcompile script harus ditambahkan library untuk ethernet melalui sket
   Serial.begin **(9600);**
   Serial.println("\n[backSoon]");. 
   
+  **(bagian program yang memuat tampilan web)**
+  const char page[] PROGMEM =
+  "HTTP/1.0 503 My Service \r\n"
+  "Content-Type: text/html\r\n"
+  "Retry-After: 600\r\n"
+  "\r\n"
+  "<html>"
+    "<head><title>"
+      "Serv"
+    "</title></head>"
+    "<body>"
+      "<h3>IoT Pertemuan 13</h3>"
+      "<p><em>"
+        "Agha Syafrila Myzantina<br />"
+        "V3920002<br />"
+        "16 Juli 2001<br />"
+        "aghasyafrilam@student.uns.ac.id<br />"
+      "</em></p>"
+    "</body>"
+  "</html>"
+  ;
+  
 Setelah tercompile ambil link file hexnya dan ketika kembali ke proteus dan program di play  led akan menyala serta muncul Virtual terminal yang memuat IP address yang digunakan untuk memuat server online/web.
   
 ![a](https://user-images.githubusercontent.com/89903725/143770913-15240215-5cbf-4851-929d-2f92b3d7fde8.png)
