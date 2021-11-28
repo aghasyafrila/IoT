@@ -4,13 +4,13 @@ Rangkaian menggunakan Arduino Uno R3, Modul Ethernet ENC28J60, Virtual Terminal,
 
 Sebelum mengcompile script harus ditambahkan library untuk ethernet melalui sketch kemudian include library. Kemudian ubah **#define STATIC 0  // set to 1 to disable DHCP (adjust myip/gwip values below)** menjadi **#define STATIC 1  // set to 1 to disable DHCP (adjust myip/gwip values below)** dan 
   void setup(){
-  Serial.begin **(57600);
+  Serial.begin **(57600);**
   Serial.println("\n[backSoon]"); 
   
   menjadi 
   
   void setup(){
-  Serial.begin **(9600);
+  Serial.begin **(9600);**
   Serial.println("\n[backSoon]");. 
   
 Setelah tercompile ambil link file hexnya dan ketika kembali ke proteus dan program di play  led akan menyala serta muncul Virtual terminal yang memuat IP address yang digunakan untuk memuat server online/web.
