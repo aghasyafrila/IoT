@@ -1,1 +1,1 @@
-Project Pembacaan Nilai Temperatur Laboratorium TI dengan Sensor Suhu LM35 dan LCD sebagai output atau penampil dari suhu yang telah terdeteksi oleh sensor dan datanya telah diproses oleh arduione terlebih dahulu sebelum ditampilkan oleh LCD. 
+Project Pembacaan Nilai Temperatur Laboratorium TI dengan Sensor Suhu LM35 dan LCD sebagai output atau penampil dari suhu yang telah terdeteksi oleh sensor dan datanya telah diproses oleh arduino terlebih dahulu sebelum ditampilkan pada LCD. 
