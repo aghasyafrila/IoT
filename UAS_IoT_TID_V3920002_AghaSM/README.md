@@ -15,7 +15,7 @@ Sebelum mengcompile script harus ditambahkan library untuk ethernet melalui sket
   
   **(bagian program yang memuat tampilan web)**
   
-  ![scr](https://user-images.githubusercontent.com/89903725/143771752-1440c044-6486-4a9a-ad8b-32d8eda5746f.png)
+ ![3](https://user-images.githubusercontent.com/89903725/146653883-c3c85721-1b4f-4bc8-ba51-22b00c099b5a.png)
 
 Setelah tercompile ambil link file hexnya dan ketika kembali ke proteus dan program di play  led akan menyala serta muncul Virtual terminal yang memuat IP address yang digunakan untuk memuat server online/web.
   
@@ -23,5 +23,5 @@ Setelah tercompile ambil link file hexnya dan ketika kembali ke proteus dan prog
 
 Pada bagian DNS masih 0 dan Failed to access Ethernet controller karena belum menggunakan ethernet arduino.
 
-![b](https://user-images.githubusercontent.com/89903725/143771092-cf2687ae-d03c-49b1-95f4-338abaf5d4ff.png)
+#GAMBARHASIL
   
