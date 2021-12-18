@@ -21,7 +21,4 @@ Setelah tercompile ambil link file hexnya dan ketika kembali ke proteus dan prog
   
 ![a](https://user-images.githubusercontent.com/89903725/143770913-15240215-5cbf-4851-929d-2f92b3d7fde8.png)
 
-Pada bagian DNS masih 0 dan Failed to access Ethernet controller karena belum menggunakan ethernet arduino.
-
-#GAMBARHASIL
-  
+Pada bagian DNS masih 0 dan Failed to access Ethernet controller karena belum menggunakan ethernet arduino, dan IP tersebut merupakan IP atau alamat tampilan Web.
