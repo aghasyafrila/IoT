@@ -33,8 +33,6 @@ const char page[] PROGMEM =
     "<p><em>"
       "Namaku Agha Syafrila, Aku sedang menjalani studi di UNS PSDKU Madiun<br />"
       "Asalku dari Jawa Tengah, tepatnya darikota Batang<br />"
-      "Jangan lupa selalu berdoa ya teman-teman, semoga kita bisa lulus tepat waktu<br />"
-      "Semangat! Jangan lupa istirahat, apresiasi diri juga jangan lupa biar bahagia selalu<br />"
       "Mari bercengkarama dengan aghasyafrilam@student.uns.ac.id<br />"
     "</em></p>"
   "</body>"
